@@ -1,0 +1,22 @@
+semester,course_code,course_title,credits,course_type,syllabus_topics,status
+1,MA101,Engineering Mathematics I,4,Core,Matrices; Differential Calculus; Multivariable Calculus; Multiple Integrals,Completed
+1,PH101,Engineering Physics,4,Core,Optics; Quantum Mechanics Basics; Semiconductor Physics; Lasers,Completed
+1,CS101,Problem Solving & C Programming,4,Core,Flowcharts; Control Structures; Arrays; Pointers; Structures; File I/O,Completed
+2,MA102,Engineering Mathematics II,4,Core,Differential Equations; Vector Calculus; Laplace Transforms; Complex Variables,Completed
+2,EC102,Digital Logic Design,4,Core,Boolean Algebra; K-Maps; Combinational Circuits; Flip-Flops; Counters,Completed
+2,CS102,Object Oriented Programming,4,Core,Classes & Objects; Inheritance; Polymorphism; Templates; Exception Handling,Completed
+3,CS201,Data Structures,4,Core,Stacks; Queues; Linked Lists; Trees; Graphs; Hashing; Sorting,Completed
+3,CS202,Computer Organization & Architecture,4,Core,ISA; ALU Design; Pipelining; Cache Memory; I/O Organization,Completed
+3,MA201,Discrete Mathematics,4,Core,Logic; Set Theory; Relations; Graph Theory; Algebraic Structures,Completed
+4,CS203,Design & Analysis of Algorithms,4,Core,Divide & Conquer; Greedy; Dynamic Programming; Backtracking; NP-Completeness,Completed
+4,CS204,Operating Systems,4,Core,Processes; Threads; CPU Scheduling; Deadlocks; Memory Management; File Systems,Completed
+4,CS205,Database Management Systems,4,Core,ER Model; Relational Algebra; SQL; Normalization; Transactions; Indexing,Completed
+5,CS301,Computer Networks,4,Core,OSI & TCP/IP; Data Link; Routing; Congestion Control; Application Protocols,In Progress
+5,CS302,Software Engineering,3,Core,SDLC; Agile; Requirements; Architecture; Testing; Maintenance,In Progress
+5,CS303,Theory of Computation,4,Core,Finite Automata; Regular Expressions; CFG; Pushdown Automata; Turing Machines,In Progress
+5,CS304,Machine Learning Fundamentals,3,Elective,Regression; Classification; Decision Trees; Clustering; Model Evaluation,Not Started
+6,CS305,Compiler Design,4,Core,Lexical Analysis; Parsing; Syntax-Directed Translation; Code Optimization,Not Started
+6,CS306,Cloud Computing,3,Elective,Virtualization; Containers; IaaS/PaaS/SaaS; Distributed Storage,Not Started
+7,CS401,Distributed Systems,4,Core,Clocks & Ordering; Consensus; Replication; Fault Tolerance,Not Started
+7,PR401,Capstone Project Phase I,4,Project,Literature Review; Problem Formulation; System Design; Prototype,Not Started
+8,PR402,Capstone Project Phase II,8,Project,Implementation; Evaluation; Documentation; Final Viva,Not Started

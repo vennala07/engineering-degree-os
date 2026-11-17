@@ -1,0 +1,9 @@
+semester,course_code,assessment_type,title,due_date,max_marks,obtained_marks,status
+4,CS203,IA1,Algorithm Design IA1,2026-02-18,30,26,Completed
+4,CS204,Exam,OS End-Semester Exam,2026-05-12,100,84,Completed
+5,CS301,IA1,Networks Internal Assessment 1,2026-09-22,30,25,Completed
+5,CS302,Assignment,Software Requirements Specification Doc,2026-11-18,20,,In Progress
+5,CS301,IA2,Networks Internal Assessment 2,2026-11-25,30,,Not Started
+5,CS303,Lab Evaluation,Automata Simulation Lab Eval,2026-11-28,25,,Not Started
+5,CS302,Project Review,Mini Project Phase 2 Review,2026-12-03,50,,Not Started
+5,CS301,Exam,Computer Networks Final Exam,2026-12-10,100,,Not Started

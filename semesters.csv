@@ -1,0 +1,9 @@
+semester,academic_year,status,is_current,target_credits,notes
+1,2024-25,Completed,False,20,Foundation engineering courses
+2,2024-25,Completed,False,20,Core sciences and programming
+3,2025-26,Completed,False,22,Core CS/Engineering fundamentals
+4,2025-26,Completed,False,22,Algorithms and systems core
+5,2026-27,In Progress,True,22,Current semester - electives & mini project
+6,2026-27,Not Started,False,22,Advanced electives & internship prep
+7,2027-28,Not Started,False,18,Major project Phase 1 & electives
+8,2027-28,Not Started,False,14,Major project Phase 2 & internship

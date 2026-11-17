@@ -1,0 +1,9 @@
+id,semester,category,item,target_date,status,notes
+1,1,Academics,Download Sem 1 syllabus & textbook list,2024-08-15,Completed,Saved PDFs to study folder
+2,2,Lab / Project,Complete all lab records and viva prep,2025-04-20,Completed,Signed by lab faculty
+3,3,Academics,Finish Data Structures & Algorithms problem sheet,2025-11-10,In Progress,Focus on trees and graphs
+4,4,Exam Prep,Solve previous 5 years question papers for IA1 & IA2,2026-03-15,In Progress,Prioritize core subjects
+5,5,Lab / Project,Finalize mini-project topic and team,2026-09-01,Not Started,Discuss ideas with mentor
+6,6,Internship,Prepare resume and apply for summer internships,2027-01-15,Not Started,Update GitHub portfolio first
+7,7,Lab / Project,Submit Major Project Phase 1 synopsis,2027-08-30,Not Started,Check department format
+8,8,Career,Complete Major Project final review & credit audit,2028-04-15,Not Started,Verify total credits >= 160

@@ -1,0 +1,13 @@
+semester,course_code,course_title,credits,internal_marks,external_marks,total_marks,max_marks,grade,status
+1,MA101,Engineering Mathematics I,4,36,52,88,100,A+,Completed
+1,PH101,Engineering Physics,4,32,48,80,100,A,Completed
+1,CS101,Problem Solving & C Programming,4,38,54,92,100,O,Completed
+2,MA102,Engineering Mathematics II,4,34,49,83,100,A,Completed
+2,EC102,Digital Logic Design,4,33,46,79,100,B+,Completed
+2,CS102,Object Oriented Programming,4,37,51,88,100,A+,Completed
+3,CS201,Data Structures,4,38,52,90,100,O,Completed
+3,CS202,Computer Organization & Architecture,4,31,45,76,100,B+,Completed
+3,MA201,Discrete Mathematics,4,35,49,84,100,A,Completed
+4,CS203,Design & Analysis of Algorithms,4,36,50,86,100,A+,Completed
+4,CS204,Operating Systems,4,34,50,84,100,A,Completed
+4,CS205,Database Management Systems,4,37,52,89,100,A+,Completed
